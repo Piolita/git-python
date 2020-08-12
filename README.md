@@ -1,4 +1,4 @@
-# git-python
+# Master Mind
 
 Juego en python de Manuel González
 MasterMind
